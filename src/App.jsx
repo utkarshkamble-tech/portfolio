@@ -203,13 +203,13 @@ function Hero() {
 
           <div className="hero-btns">
             <a
-              href="https://wa.me/919834005839?text=Hi%20Utkarsh%2C%20I%20saw%20your%20portfolio!"
+              href="https://wa.me/918007445735"
               target="_blank" rel="noreferrer"
               className="btn-primary"
             >
               💬 Hire Me on WhatsApp
             </a>
-            <a href="/Utkarsh_Kamble_Resume.pdf" download className="btn-outline">
+            <a href="/resume.docx" download className="btn-outline">
               📄 Download Resume
             </a>
           </div>
@@ -479,7 +479,7 @@ function Contact() {
             </div>
 
             <a
-              href="https://wa.me/919834005839?text=Hi%20Utkarsh!"
+              href="https://wa.me/918007445735"
               target="_blank" rel="noreferrer"
               className="btn-primary"
             >
