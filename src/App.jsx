@@ -138,7 +138,7 @@ function Navbar() {
           ))}
         </ul>
 
-        <a href="https://wa.me/919834005839?text=Hi%20Utkarsh!" target="_blank" rel="noreferrer" className="nav-cta">
+        <a href="https://wa.me/918007445735" target="_blank" rel="noreferrer" className="nav-cta">
           Hire Me
         </a>
 
