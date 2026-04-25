@@ -463,7 +463,7 @@ function Contact() {
               {[
                 { icon: "✉", label: "Email", value: "Utk0210@gmail.com", href: "mailto:Utk0210@gmail.com" },
                 { icon: "📞", label: "Phone", value: "+91 9834005839", href: "tel:+919834005839" },
-                { icon: "💬", label: "WhatsApp", value: "Message directly", href: "https://wa.me/919834005839" },
+                { icon: "💬", label: "WhatsApp", value: "Message directly", href: "https://wa.me/918007445735" },
                 { icon: "📍", label: "Location", value: "Nagpur, Maharashtra", href: null },
               ].map(item => (
                 <div key={item.label} className="contact-item">
